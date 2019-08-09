@@ -18,12 +18,10 @@ Caixiong.Shen, Guojie.Liu, Yahui.Liu, Wentian.Zhang, Yong.Qi
 ## How to Use the Benchmark?
 
 1. You need to download the [protocol](./protocol.pdf) for our database. We trust that  the terms of this protocol are acceptable to you, and that you will be able to sign and email the attached copy of this protocol to us to confirm your agreement to its terms. The email address you can choose is
-
  - feng.liu@szu.edu.cn,
-
  - csfliu87@gmail.com,
-
- Group Emailing is accepted and encouraged.
+ 
+   Group Emailing is accepted and encouraged.
 
 2. Then, there are two ways to get data:
 
